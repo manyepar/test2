@@ -46,3 +46,4 @@ ga_instance = pygad.GA(num_generations=3,
                        on_stop=on_stop)
 
 ga_instance.run()
+print("hello world")
