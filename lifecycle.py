@@ -47,3 +47,5 @@ ga_instance = pygad.GA(num_generations=3,
 
 ga_instance.run()
 function_inputs = [4,-2,3.5,5,-11,-4.7]
+dimah
+dimah
